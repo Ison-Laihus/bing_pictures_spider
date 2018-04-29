@@ -1,0 +1,7 @@
+{
+  "name": "curl_study",
+  "version": "0.0.1",
+  "require": {
+    "simple-html-dom/simple-html-dom": "*"
+  }
+}

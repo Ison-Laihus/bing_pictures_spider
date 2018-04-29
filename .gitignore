@@ -1,0 +1,22 @@
+# no need idea configuration folder
+.idea
+
+# no need test file
+app.log
+bing_ctx
+start.php
+test_curl.php
+test_file-get-content.jpg
+test_file-get-content.php
+test_dom_parser.php
+test_url.jpg
+test_monolog.php
+start.php
+
+# no need relying packages folder
+vendor
+
+# no need all the downloaded pictures
+img
+img_download
+img_curl_download
